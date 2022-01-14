@@ -18,5 +18,5 @@ I am very much a beginner in data analysis and have create this as one of my pro
 ## Sources
 Data sets where chosen from kaggle.com:
 
-[Alcohol consumption in Russia (1998-2016)](https://www.kaggle.com/dwdkills/alcohol-consumption-in-russia)
-[Russian Demography Data (1990-2017)](https://www.kaggle.com/dwdkills/russian-demography)
+* [Alcohol consumption in Russia (1998-2016)](https://www.kaggle.com/dwdkills/alcohol-consumption-in-russia)
+* [Russian Demography Data (1990-2017)](https://www.kaggle.com/dwdkills/russian-demography)
