@@ -2,12 +2,12 @@
 This projects consists of a Jupyter notebook containing code for a basic analysis of the alcohol sales and demography data in Russia. The different types of alcohol as well as regional differences are analyzed.
 
 ## Installation
-Anaconda distribution:
-Python 3.9.7
-jupyter notebook 6.4.5
+* Anaconda distribution:
+    * Python 3.9.7
+    * jupyter notebook 6.4.5
 
-Additonal packages:
-plotly 5.5.0
+* Additonal packages:
+    * plotly 5.5.0
 
 ## Motivation
 This project work is part of my online course on data science. I chose to find new datasets rather than to work with the suggested ones and since I am interested in Russian culture as well as cocktails :), I chose to take a look on the alcohol sales per capita in Russia over the years and use this for my analysis.
