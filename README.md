@@ -9,7 +9,7 @@ jupyter notebook 6.4.5
 Additonal packages:
 plotly 5.5.0
 
-##Motivation
+## Motivation
 This project work is part of my online course on data science. I chose to find new datasets rather than to work with the suggested ones and since I am interested in Russian culture as well as cocktails :), I chose to take a look on the alcohol sales per capita in Russia over the years and use this for my analysis.
 
 ### Mini-Disclaimer
